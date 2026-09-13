@@ -1,0 +1,18 @@
+# Переменные окружения с секретами
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Логи
+*.log
